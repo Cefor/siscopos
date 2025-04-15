@@ -1,18 +1,42 @@
 
 # Sistema de Coordenação de Pós-Graduação - SisCopos
 
-O presente projeto tem por objetivo a construção de sistema informatizado para dar suporte aos processos de trabalho de programas de pós-graduação em nível *lato* e *stricto sensu*.
+O SisCopos é um sistema informatizado desenvolvido para apoiar a gestão acadêmica do Programa de Pós-Graduação da Câmara dos Deputados (PPG-Cefor). Seu desenvolvimento teve início em janeiro de 2023, como parte de uma iniciativa de modernização institucional, com o objetivo de automatizar processos internos antes realizados manualmente, sujeitos a falhas e exigentes em termos de tempo e esforço.
 
-O desenvolvimento é baseado nas experiências e procedimentos adotados no Programa de Pós-Graduação da Câmara dos Deputados.
+O projeto é baseado nas experiências e procedimentos adotados no Programa de Pós-Graduação da Câmara dos Deputados.
 
 ## Autor: Fabiano Peruzzo Schwartz
 
+## Objetivo
+
+O SisCopos tem por objetivo garantir maior integridade, eficiência e transparência na gestão dos dados acadêmicos, consolidando um modelo robusto de governança da informação, com impacto direto na agilidade e confiabilidade dos registros relacionados a:
+
+* Cursos e linhas de pesquisa
+* Disciplinas e componentes curriculares
+* Cadastro de docentes e discentes (regulares e especiais)
+* Matrículas, trancamentos e atividades complementares
+* Exames de qualificação, defesas de TCC e emissão de histórico escolar
+
 ## Arquitetura de desenvolvimento
-* Spring Boot MVC
-* JPA
-* Thymeleaf
-* Bootstrap
-* Devtools
+
+* Back-end: Java 8+
+* Framework: Spring Boot (versão usada: 1.5.6.RELEASE)
+* Banco de dados: MySQL
+* Gerenciador de dependências: Maven (pom.xml)
+* Front-end: Thymeleaf/Bootstrap
+
+## Estrutura do projeto
+
+├── pom.xml
+└── src/
+    ├── main/
+    │   ├── java/
+    │   │   └── br/leg/camara/copos/...
+    │   └── resources/
+    │       ├── templates/
+    │       └── application.properties
+    └── test/
+
 
 ## Instruções
 
