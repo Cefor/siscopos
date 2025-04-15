@@ -27,6 +27,7 @@ O SisCopos tem por objetivo garantir maior integridade, eficiência e transparê
 
 ## Estrutura do Projeto
 
+```
 siscopos/
 ├── pom.xml
 └── src/
@@ -40,7 +41,7 @@ siscopos/
     │       ├── templates/
     │       └── application.properties
     └── test/
-
+```
 
 ## Instruções
 
