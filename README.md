@@ -25,17 +25,7 @@ O SisCopos tem por objetivo garantir maior integridade, eficiência e transparê
 * Gerenciador de dependências: Maven (pom.xml)
 * Front-end: Thymeleaf/Bootstrap
 
-## Estrutura do projeto
-
-├── pom.xml
-└── src/
-    ├── main/
-    │   ├── java/
-    │   │   └── br/leg/camara/copos/...
-    │   └── resources/
-    │       ├── templates/
-    │       └── application.properties
-    └── test/
+## Estrutura do Projeto
 
 
 ## Instruções
