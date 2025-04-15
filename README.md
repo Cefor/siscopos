@@ -27,6 +27,20 @@ O SisCopos tem por objetivo garantir maior integridade, eficiência e transparê
 
 ## Estrutura do Projeto
 
+siscopos/
+├── pom.xml
+└── src/
+    ├── main/
+    │   ├── java/
+    │   │   └── br/
+    │   │       └── leg/
+    │   │           └── camara/
+    │   │               └── copos/
+    │   └── resources/
+    │       ├── templates/
+    │       └── application.properties
+    └── test/
+
 
 ## Instruções
 
