@@ -1,9 +1,8 @@
 
 # Sistema de Coordenação de Pós-Graduação - SisCopos
 
-O SisCopos é um sistema informatizado desenvolvido para apoiar a gestão acadêmica do Programa de Pós-Graduação da Câmara dos Deputados (PPG-Cefor). Seu desenvolvimento teve início em janeiro de 2023, como parte de uma iniciativa de modernização institucional, com o objetivo de automatizar processos internos antes realizados manualmente, sujeitos a falhas e exigentes em termos de tempo e esforço.
-
-O projeto é baseado nas experiências e procedimentos adotados no Programa de Pós-Graduação da Câmara dos Deputados.
+O SisCopos é um sistema informatizado desenvolvido para apoiar a gestão acadêmica do Programa de Pós-Graduação da Câmara dos Deputados (PPG-Cefor). Seu desenvolvimento teve início em janeiro de 2023, como parte de iniciativa de modernização do Programa, com o objetivo de automatizar processos internos antes realizados manualmente, sujeitos a falhas e exigentes em termos de tempo e esforço.
+![Tela de estatísticas](imagem/estatisticas.png)
 
 ## Autor: Fabiano Peruzzo Schwartz
 
