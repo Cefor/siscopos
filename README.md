@@ -53,3 +53,5 @@ siscopos/
 * Faça o login:
   * com o e-mail **admin@copos.edu** e senha **admin** para perfil de administrador
   * com o e-mail **apoio@copos.edu** e senha **apoio** para simular o perfil de apoio
+  * com o e-mail **consulta@copos.edu** e senha **consulta** para simular o perfil de consulta
+  * com o e-mail **painel@copos.edu** e senha **painel** para simular o perfil de painel
